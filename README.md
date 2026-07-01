@@ -96,5 +96,5 @@ I am a dedicated cybersecurity graduate focused on defensive security operations
 
 ---
 <div align="center">
-📬 <strong>Want to collaborate?</strong> Reach out via <a href="mailto:smdfayaaz14@gmail.com">Email</a> or connect on <a href="https://linkedin.com/in/muhammed-fayaaz">LinkedIn</a>!
+📬 <strong>Want to collaborate?</strong> Reach out via <a href="mailto:smdfayaaz14@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/muhammed-fayaaz-09a19225b/">LinkedIn</a>!
 </div>
